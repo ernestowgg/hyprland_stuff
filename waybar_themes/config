@@ -23,15 +23,14 @@
             "clock#date"
         ],
         "modules-right": [
-            "custom/nowplaying",
-            "custom/updates",
-            "bluetooth",
             "network",
+            "bluetooth",
+            "custom/nowplaying",
             "pulseaudio",
             "battery",
             "group/tools",
-            "tray",
             "custom/notification",
+            "tray",
             "custom/exit",
             "custom/ml4w-welcome"
         ]

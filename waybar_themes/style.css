@@ -247,7 +247,7 @@ window#waybar.empty #window {
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    padding-right: 20px;
+    padding-right: 15px;
 }
 
 /* -----------------------------------------------------
